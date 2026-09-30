@@ -21,3 +21,11 @@
 - Lịch thanh toán (ảnh chính sách là của đợt The Link cũ).
 - Ngày bàn giao (chỉ có "dự kiến", nguồn vênh cuối 2026 / 2027).
 - Con số hạn giấy xác nhận 12 tháng / 06 tháng (chưa khớp, chờ hỏi văn phòng).
+
+## Cố ý bỏ ra — lệnh sếp 30/09/2026
+
+🔴 **Sếp chốt: phần LAYOUT và phần BÓC MÁI CHƯA ĐƯỢC ĐĂNG.** Đã gỡ khỏi trang 30/09/2026:
+- `mb3d-studio` · `mb3d-1pn` · `mb3d-2pn` · `mb3d-2pn-goc` · `mb3d-3pn` (bóc mái)
+- `tong-mat-bang.jpg` (gỡ cho chắc, chờ sếp xác nhận phạm vi chữ "layout")
+
+Khối "Studio đến 3 phòng ngủ" giờ chỉ còn thẻ chữ: tên loại căn + diện tích. **Không treo lại khi chưa có lệnh sếp.**
