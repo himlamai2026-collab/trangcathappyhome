@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Disallow: /bang/
 Sitemap: https://trangcathappyhome.com/sitemap.xml
